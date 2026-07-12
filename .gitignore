@@ -2,3 +2,5 @@ dist/
 __pycache__/
 *.pyc
 corpus/
+wiki/*
+!wiki/SCHEMA.md
