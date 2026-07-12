@@ -33,5 +33,6 @@ anchor_years: [1986, 2000]
 1. 这家公司余生能产出多少现金？我能按 (a)+(b)−(c) 估出 owner earnings 吗？
 2. 伊索三问我答得出几问？答不出 → 这笔钱是投机，不是投资
 3. 报告利润和股东盈余差多少？差额大的方向是高估还是低估？
+4. 逆向问：当前市值隐含丛里要飞出几只鸟、飞多少年？这个隐含假设荒谬还是合理？
 
 关联：[00-overview](00-overview.md) · [gate-moat](gate-moat.md)（余生有多长由它定）· [derived-compounding-float](derived-compounding-float.md)

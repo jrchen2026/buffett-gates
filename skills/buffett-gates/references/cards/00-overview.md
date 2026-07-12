@@ -44,7 +44,7 @@ source: 伯克希尔股东信 1977–2024 全集降秩
 
 - 演变轴：[evolution-cigar-to-wonderful](evolution-cigar-to-wonderful.md)——他没换过体系，只是在图上挪了格子
 - 操作仪：[ops-quadrant-checklist](ops-quadrant-checklist.md)——确定性 × 折扣，四象限定格
-- 派生：[derived-institutional-imperative](derived-institutional-imperative.md)、[derived-compounding-float](derived-compounding-float.md)
+- 派生：[derived-institutional-imperative](derived-institutional-imperative.md)、[derived-compounding-float](derived-compounding-float.md)、[derived-credentialed-bear](derived-credentialed-bear.md)（反方：正方读数指向掏钱时，强制一个只砍不建的对抗回合）
 
 ## 语料
 
