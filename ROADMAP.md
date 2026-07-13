@@ -16,6 +16,7 @@
 | 2026-07-12 | **仓库门面设计**：封面 cover.svg + 社交预览 PNG（1280×640，待手动上传 Settings→Social preview）+ README 重排（英文置顶双语完整版）+ About 文案备好——**未提交，随宁德季检一并 commit+push** |
 | 2026-07-13 | **Wiki 第二批 5 封 ingest 完成**（1994/2014/2016/2019/2020，累计 15/48）：新判例页 5 张（Scott Fetzer / Tesco / 苹果 / 卡夫亨氏 / PCC），判例页增至 15 张；证伪台账候选 #1 证据累至 ⑩ 条（调和方案连续得到支持）；lint 全过（42 页零断链） |
 | 2026-07-13 | **AGM transcript 抓取方案定稿**（Sonnet 子代理调研）：主路径 Playwright 直抓 buffett.cnbc.com（1994–2025，~60-90 页，403 反爬需无头浏览器，transcript 内嵌 HTML 无独立 API）+ GitHub Yestoday 仓库交叉校验 + YouTube 官方场次兜底；预估 3–5 人日；版权同股东信（corpus/ 本地私有）。报告：wiki/research-agm-transcript.md（本地） |
+| 2026-07-13 | **域检判例更换为华为**（永久域外：无股权通道，与"等 IPO 再验"类域外形成两型对照）；门面三件套入库；**积压提交全部 push，本地与 origin 同步** |
 
 ## 进行中
 
@@ -24,7 +25,7 @@
 
 ## 待办（按优先级）
 
-1. **2026-07-26**：宁德时代中报披露后跑首次季检 → 补季检示例（examples/）→ **随后把积压的本地提交与门面变更一并 commit + push**（含手动上传 social-preview.png 到 Settings）
+1. **2026-07-26**：宁德时代中报披露后跑首次季检 → 补季检示例（examples/）→ commit + push（积压提交已于 07-13 全部推送，此项只剩季检本身；social-preview.png 待手动上传 Settings→Social preview）
 2. Wiki 一期收尾：剩余 33 封分批 ingest（下批候选：1998/2008/2011/2017/2018/2022）+ 每批 lint
 3. Wiki 二期：**抓取方案已定稿（2026-07-13，见 wiki/research-agm-transcript.md）**，下一步写 `scripts/fetch_agm_transcripts.py`（Playwright，仿 fetch_letters.py，预估 3–5 人日）→ 抓完按 SCHEMA ingest 年会判例
 4. 证伪台账候选 #1（管理层因素是否独立生成器）：证据已累至 ⑩ 条，调和方案（"结构是生成器，人是否决项与折扣项"）连续得到支持（Scott Fetzer/KHC/PCC 三例最硬）；二期 AGM 语料做最终检验，暂不动秩
